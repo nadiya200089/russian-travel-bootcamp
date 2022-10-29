@@ -1,0 +1,18 @@
+.places__wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+
+@media (max-width: 768px) {
+    .places__wrapper {
+        gap: 73px;
+    }
+}
+
+@media (max-width: 600px) {
+    .places__wrapper {
+        gap: 50px;
+    }
+
+}

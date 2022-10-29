@@ -1,0 +1,16 @@
+.footer {
+    padding: 46px 0 24px;
+}
+
+@media (max-width: 768px) {
+    .footer {
+        padding: 44px 0 24px;
+    }
+
+}
+
+@media (max-width: 320px) {
+    .footer {
+        padding: 32px 0 24px;
+    }
+}

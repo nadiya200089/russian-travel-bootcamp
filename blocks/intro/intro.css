@@ -1,0 +1,15 @@
+.intro {
+    padding: 46px 0;
+}
+
+@media (max-width: 768px) {
+    .intro {
+        padding: 44px 0;
+    }   
+}
+
+@media (max-width: 320px) {
+    .intro {
+        padding: 32px 0;
+    }   
+}

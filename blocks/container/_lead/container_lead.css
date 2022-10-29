@@ -1,0 +1,15 @@
+.container_lead {
+    max-width: 984px;
+}
+
+@media (max-width: 768px) {
+    .container_lead {
+        padding: 0;
+    }
+}
+
+@media (max-width: 320px) {
+    .container_lead {
+        padding: 0;
+    }
+}

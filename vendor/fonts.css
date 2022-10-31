@@ -27,15 +27,15 @@
 }
 
 @font-face {
-    src: url("../font-family/Inter-Thin.woff") format("woff");
+    src: url("../font-family/Inter-Bold.woff") format("woff");
     font-family: 'Inter';
-    font-weight: 200;
+    font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
-    src: url("../font-family/Inter-Thin.woff2") format("woff2");
+    src: url("../font-family/Inter-Bold.woff2") format("woff2");
     font-family: 'Inter';
-    font-weight: 200;
+    font-weight: 700;
     font-style: normal;
 }

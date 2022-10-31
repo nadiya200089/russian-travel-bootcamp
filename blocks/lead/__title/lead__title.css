@@ -6,18 +6,12 @@
     margin-top: 56px;
     margin-bottom: 32px;
     text-align: center;
-    margin: 0 auto 32px auto;
+    margin: 0 auto;
 }
+
 @media (max-width: 768px) {
     .lead__title {
         font-size: calc((100vw - 320px)/(768 - 320)*(96 - 40) + 40px);
         line-height: calc((100vw - 320px)/(768 - 320)*(100 - 44) + 44px);
-    }
-}
-
-@media (max-width: 320px) {
-    .lead__title {
-        margin-top: 0;
-        margin-bottom: 16px;
     }
 }

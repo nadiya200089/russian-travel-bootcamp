@@ -1,0 +1,22 @@
+.header__lang-link_inactive {
+    color: inherit;
+    /* width: 30px; */
+    text-decoration: none;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.header__lang-link_inactive:hover {
+    opacity: 0.8;
+}
+
+@media (max-width: 320px) {
+    .header__lang-link_inactive {
+        /* width: 20px; */
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 20px;
+    }
+}

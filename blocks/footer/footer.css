@@ -1,16 +1,20 @@
 .footer {
-    padding: 46px 0 24px;
+    margin: 0 auto;
+    max-width: 1184px;
+    box-sizing: content-box;
+    padding: 46px 48px 24px;
 }
 
 @media (max-width: 768px) {
     .footer {
-        padding: 44px 0 24px;
+        max-width: 720px;
+        padding: 44px 24px 24px;
     }
 
 }
 
 @media (max-width: 320px) {
     .footer {
-        padding: 32px 0 24px;
+        padding: 32px 16px 24px;
     }
 }

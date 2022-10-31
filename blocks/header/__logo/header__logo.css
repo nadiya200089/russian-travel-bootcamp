@@ -20,9 +20,10 @@
     .header__logo {
         width: 34%;
     }
+}
 
-    @media (max-width: 320px) {
-        .header__logo {
-            width: 49.3%;
-        }
+@media (max-width: 320px) {
+    .header__logo {
+        width: 49.3%;
     }
+}

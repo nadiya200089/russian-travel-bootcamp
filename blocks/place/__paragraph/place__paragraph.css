@@ -20,8 +20,8 @@
 
 @media (max-width: 320px) {
     .place__paragraph {
-        font-size: calc((100vw - 320px)/(320 - 100)*(16 - 14) + 14px);
-        line-height: calc((100vw - 320px)/(320 - 100)*(26.08 - 25) + 25px);
+        /* font-size: calc((100vw - 320px)/(320 - 100)*(16 - 14) + 14px);
+        line-height: calc((100vw - 320px)/(320 - 100)*(26.08 - 25) + 25px); */
         padding: 0 16px;
 
     }

@@ -13,7 +13,6 @@
 
 @media (max-width: 768px) {
     .place {
-        display: grid;
         grid-template-columns: 0.9659fr 1fr;
         gap: 48px 28px;
     }

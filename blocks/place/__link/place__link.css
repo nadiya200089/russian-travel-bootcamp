@@ -9,10 +9,10 @@
     opacity: 0.8;
 }
 
-@media (max-width: 320px) {
+/* @media (max-width: 320px) {
     .place__link {
         font-size: calc((100vw - 320px)/(320 - 100)*(18 - 15) + 15px);
         line-height: calc((100vw - 320px)/(320 - 100)*(100 - 22) + 21px);
     }
 
-}
+} */
